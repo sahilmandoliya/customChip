@@ -1,1 +1,1 @@
-# Custom Chip Input Component with Image and Dropdown selection
+# Custom Chip Input Component with Image and Dropdown selection.
